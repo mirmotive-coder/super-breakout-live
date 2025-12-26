@@ -1,5 +1,3 @@
-# super-breakout-live
-Educational market analysis platform based on compression and vacuum logic.
 # Super Breakout LIVE
 
 Educational market analysis platform focused on rare high-quality market states.
